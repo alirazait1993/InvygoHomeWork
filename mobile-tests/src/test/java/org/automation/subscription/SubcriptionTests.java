@@ -12,4 +12,8 @@ public class SubcriptionTests extends Setup {
     @Test(priority = 0)
     public void MonthlySubscription() {
     }
+
+    @Test(priority = 0)
+    public void Subscription() {
+    }
 }
